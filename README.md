@@ -18,7 +18,7 @@ I build products at the intersection of AI, data, and regulated systems — and 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Wedding Photo Sharing](https://github.com/anusheelp/wedding-photo-sharing) | Face-detection pipeline + guest search app across 6,500+ wedding photos | Python, DeepFace, Cloudflare R2/Pages |
+| [Wedding Photo Sharing](https://github.com/anusheelp/PhotoSharingApp) | Face-detection pipeline + guest search app across 6,500+ wedding photos | Python, DeepFace, Cloudflare R2/Pages |
 | [Live Event Translator](https://github.com/anusheelp/live-event-translator) | Real-time multilingual translation for live events — built for a destination wedding with guests across 4+ languages | Python, NLP |
 | [Event RAG Chatbot](https://github.com/anusheelp/event-rag-chatbot) | RAG-based chatbot for wedding guests — answered event logistics questions without host intervention | Python, RAG, LLM |
 
